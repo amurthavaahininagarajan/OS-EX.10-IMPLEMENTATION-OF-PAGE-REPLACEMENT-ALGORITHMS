@@ -26,6 +26,7 @@ ALGORITHM:
 10.Stop the program
 
 PROGRAM:
+```
 #include<stdio.h>
 main()
 {
@@ -99,6 +100,7 @@ printf("\n");
 }
 printf("\nThe no of page faults is %d",c);
 }
+```
 
 OUTPUT:
 
